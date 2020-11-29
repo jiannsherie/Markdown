@@ -21,8 +21,7 @@ Donec ac odio tempor orci dapibus ultrices in.
 | Horse  | Sit amet massa vitae tortor condimentum. |
 | Camel  | Donec ac odio tempor orci dapibus ultrices in. |
 
-![Image](src)
-
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 
 # This is a header style - 1 
