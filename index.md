@@ -1,26 +1,26 @@
-## 01 - Learning Markdown
+# 01 - Learning Markdown
 
-*Lorem ipsum dolor sit amet*
-Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate dignissim suspendisse in est ante.
+**Lorem ipsum dolor sit amet**
+<br/>
+_Congue mauris **rhoncus** aenean vel elit **scelerisque mauris**._
+<br/>
+<br/>
+[Google it](www.google.com)
 
-### Markdown
+```
+Sit amet massa vitae tortor condimentum 
+Turpis tincidunt id aliquet risus. 
+Feugiat in ante metus dictum. 
+Donec ac odio tempor orci dapibus ultrices in.
+```
+![Image](src)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# This is a header style - 1 
 
 - Bulleted
 - List
 
 1. Numbered
 2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-``
