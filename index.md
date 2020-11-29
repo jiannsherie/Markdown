@@ -26,8 +26,6 @@ Donec ac odio tempor orci dapibus ultrices in.
 
 # This is a header style - 1 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- Item 1
+- Item 2
+- Item 3
