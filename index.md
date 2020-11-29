@@ -13,6 +13,14 @@ Turpis tincidunt id aliquet risus.
 Feugiat in ante metus dictum. 
 Donec ac odio tempor orci dapibus ultrices in.
 ```
+## Table Example
+
+| Animal | Description |
+| ------ | ----------- |
+| Cow    | Tempor incididunt ut labore et dolore magna aliqua. |
+| Horse  | Sit amet massa vitae tortor condimentum. |
+| Camel  | Donec ac odio tempor orci dapibus ultrices in. |
+
 ![Image](src)
 
 
